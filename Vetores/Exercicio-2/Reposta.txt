@@ -1,0 +1,1 @@
+O else na linha 7 é o causador de problemas, que no instante que o primeiro numero é diferente que 0 a função acaba, não checando os outros números do vetor, e também é necessário que a ultima linha da função seja um return sem estar dentro de condições.
